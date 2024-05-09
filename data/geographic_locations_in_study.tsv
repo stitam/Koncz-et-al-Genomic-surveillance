@@ -1,0 +1,109 @@
+variable	term	term_pretty	term_maps	colour	shortlisted	lon	lat	population
+country	afghanistan	Afghanistan	Afghanistan	#9FCB6A	FALSE			39
+country	albania	Albania	Albania	#8367CC	FALSE			2.8
+country	argentina	Argentina	Argentina	#C96C69	FALSE			45
+country	australia	Australia	Australia	#98C2D9	FALSE			25.4
+country	bangladesh	Bangladesh	Bangladesh	#E6B7E6	FALSE			166
+country	belgium	Belgium	Belgium	#E3D6CB	FALSE			11.5
+country	belarus	Belarus	Belarus	#000000	FALSE			9.3
+country	benin	Benin	Benin	#000000	FALSE			13.4
+country	bolivia	Bolivia	Bolivia	#CB9B6A	FALSE			11.7
+country	bosnia_and_herzegovina	Bosnia and Herzegovina	Bosnia and Herzegovina	#FFC600	FALSE			3.3
+country	brazil	Brazil	Brazil	#9FCB6A	TRUE			213
+country	cambodia	Cambodia	Cambodia	#77C0A6	FALSE			16.7
+country	canada	Canada	Canada	#A09DC4	FALSE			38
+country	chile	Chile	Chile	#C6E9DA	FALSE			19.3
+country	china	China	China	#3EB6A1	TRUE			1400
+country	colombia	Colombia	Colombia	#000000	FALSE			50.3
+country	cote_d_ivoire	Ivory Coast	Ivory Coast	#000000	FALSE			30.9
+country	croatia	Croatia	Croatia	#D6ACB2	FALSE			4
+country	czech_republic	Czech Republic	Czech Republic	#000000	FALSE			10.7
+country	denmark	Denmark	Denmark	#6DCC76	FALSE			5.8
+country	dominican_repubic	Dominican Republic	Dominican Republic	#000000	FALSE			11.4
+country	egypt	Egypt	Egypt	#E1DCAE	FALSE			104
+country	el_salvador	El Salvador	El Salvador	#000000	FALSE			6.6
+country	estonia	Estonia	Estonia	#000000	FALSE			1.4
+country	ethiopia	Ethiopia	Ethiopia	#000000	FALSE			128
+country	finland	Finland	Finland	#000000	FALSE			5.6
+country	france	France	France	#C96C69	TRUE			67
+country	georgia	Georgia	Georgia	#000000	FALSE			3.7
+country	germany	Germany	Germany	#FBBD3C	TRUE			83
+country	ghana	Ghana	Ghana	#6C7DCC	FALSE			31
+country	greece	Greece	Greece	#DCC5C2	TRUE			10.4
+country	honduras	Honduras	Honduras	#7395C3	FALSE			10.6
+country	hungary	Hungary	Hungary	#BC131F	TRUE			9.8
+country	india	India	India	#97B284	TRUE			1400
+country	iran	Iran	Iran	#C5CEE4	FALSE			84
+country	iraq	Iraq	Iraq	#B88B9F	FALSE			40
+country	israel	Israel	Israel	#CA69C2	FALSE			9.2
+country	italy	Italy	Italy	#C9CDE8	TRUE			60
+country	japan	Japan	Japan	#000000	FALSE			126.3
+country	jordan	Jordan	Jordan	#CACA6E	FALSE			10.2
+country	kazakhstan	Kazakhstan	Kazakhstan	#000000	FALSE			19.6
+country	kenya	Kenya	Kenya	#6DCC76	FALSE			54.4
+country	kosovo	Kosovo	Kosovo	#6EBEC5	FALSE			1.8
+country	kuwait	Kuwait	Kuwait	#DDC3A3	FALSE			4.3
+country	lebanon	Lebanon	Lebanon	#A78ABA	FALSE			6.8
+country	luxembourg	Luxembourg	Luxembourg	#000000	FALSE			0.7
+country	libya	Libya	Libya	#D98F90	FALSE			6.9
+country	malaysia	Malaysia	Malaysia	#C1DCE4	FALSE			32.7
+country	mexico	Mexico	Mexico	#B4A282	FALSE			128.9
+country	montenegro	Montenegro	Montenegro	#7FFFDF	FALSE			0.6
+country	morocco	Morocco	Morocco	#82A3B2	FALSE			36.9
+country	myanmar	Myanmar	Myanmar	#BE8A76	FALSE			54
+country	netherlands	Netherlands	Netherlands	#CC8AD6	FALSE			17.5
+country	nepal	Nepal	Nepal	#000000	FALSE			30.7
+country	nigeria	Nigeria	Nigeria	#E5CAD4	FALSE			206
+country	pakistan	Pakistan	Pakistan	#90DAAA	FALSE			220
+country	peru	Peru	Peru	#000000	FALSE			32.5
+country	poland	Poland	Poland	#CA69C2	FALSE			38
+country	portugal	Portugal	Portugal	#9FCB6A	FALSE			10.3
+country	puerto_rico	Puerto Rico	Puerto Rico	#000000	FALSE			3.3
+country	reunion	Reunion	Reunion	#D6C5E9	FALSE			0.9
+country	romania	Romania	Romania	#7ABB9B	TRUE			19
+country	russia	Russia	Russia	#A76DC9	FALSE			145.9
+country	rwanda	Rwanda	Rwanda	#000000	FALSE			14.3
+country	saudi_arabia	Saudi Arabia	Saudi Arabia	#BCE8E7	TRUE			34.8
+country	serbia	Serbia	Serbia	#7590CF	TRUE			6.9
+country	singapore	Singapore	Singapore	#000000	FALSE			5.8
+country	south_africa	South Africa	South Africa	#E6E5BE	TRUE			59.3
+country	south_korea	South Korea	South Korea	#DC9CC2	FALSE			51.3
+country	spain	Spain	Spain	#94DACF	FALSE			47.3
+country	sudan	Sudan	Sudan	#C1DEA1	FALSE			44.9
+country	sweden	Sweden	Sweden	#89ACCE	FALSE			10.4
+country	switzerland	Switzerland	Switzerland	#C2A5E1	FALSE			8.7
+country	taiwan	Taiwan	Taiwan	#D9E2CB	FALSE			23.6
+country	tanzania	Tanzania	Tanzania	#000000	FALSE			60
+country	thailand	Thailand	Thailand	#BC9EDA	TRUE			69.8
+country	togo	Togo	Togo	#000000	FALSE			8.7
+country	tunisia	Tunisia	Tunisia	#000000	FALSE			11.8
+country	turkey	Turkey	Turkey	#CAB2A7	FALSE			84.3
+country	united_kingdom	UK	UK	#CCB071	FALSE			68
+country	ukraine	Ukraine	Ukraine	#9DB2DC	FALSE			41.7
+country	united_arab_emirates	United Arab Emirates	United Arab Emirates	#000000	FALSE			9.9
+country	usa	USA	USA	#6600FF	TRUE			331
+country	venezuela	Venezuela	Venezuela	#CF7B9B	FALSE			28.4
+country	viet_nam	Vietnam	Vietnam	#948BD0	FALSE			97
+region23	caribbean	Caribbean		#000000	FALSE			
+region23	central_asia	Central Asia		#000000	FALSE			
+region23	eastern_asia	Eastern Asia		#db9738	TRUE	107	33	
+region23	eastern_europe	Eastern Europe		#9ac299	TRUE	55	59	
+region23	northern_america	Northern America		#588eba	TRUE	-101	42	
+region23	south_america	South America		#86b5d0	TRUE	-58	-13	
+region23	south-eastern_asia	South-Eastern Asia		#b86737	TRUE	101	17	
+region23	southern_asia	Southern Asia		#ffc739	TRUE	71	31	
+region23	southern_europe	Southern Europe		#72a097	TRUE	18	40	
+region23	western_asia	Western Asia		#963837	TRUE	39	35	
+region23	western_europe	Western Europe		#4c7e96	TRUE	6	50	
+region23	northern_africa	Northern Africa		#72286f	FALSE	17	29	
+region23	central_america	Central America		#b5dbe7	FALSE	-100	21	
+region23	southern_africa	Southern Africa		#b7c9e0	FALSE	24	-29	
+region23	northern_europe	Northern Europe		#275f95	FALSE	-2	53	
+region23	australia_and_new_zealand	Australia and New Zealand		#8b8b8b	FALSE	133	-23	
+region23	eastern_africa	Eastern Africa		#ac99b5	FALSE	38	-0.6	
+region23	western_africa	Western Africa		#a1688b	FALSE	4	9	
+continent	africa	Africa		#a1688b	FALSE			
+continent	americas	Americas		#588eba	FALSE			
+continent	asia	Asia		#ffc739	FALSE			
+continent	europe	Europe		#9ac299	FALSE			
+continent	oceania	Oceania		#8b8b8b	FALSE			

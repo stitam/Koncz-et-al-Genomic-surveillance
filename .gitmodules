@@ -1,0 +1,18 @@
+[submodule "webseq"]
+	path = webseq
+	url = https://github.com/stitam/webseq.git
+[submodule "barizona"]
+	path = barizona
+	url = https://github.com/barizona/Aci_project_scripts.git
+[submodule "virani"]
+	path = virani
+	url = https://github.com/sbthandras/virani.git
+[submodule "orthogroup_network"]
+	path = orthogroup_network
+	url = https://github.com/sbthandras/orthogroup_network.git
+[submodule "aci"]
+	path = aci
+	url = https://github.com/stitam/maci.git
+[submodule "prophyl"]
+	path = prophyl
+	url = https://github.com/stitam/prophyl.git

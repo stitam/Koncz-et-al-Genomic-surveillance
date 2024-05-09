@@ -37,3 +37,15 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Analysis results directory
+
+results/
+results_redacted/
+
+# Nextflow files
+
+.nextflow/
+.nextflow.log
+.nextflow.log.*
+work/

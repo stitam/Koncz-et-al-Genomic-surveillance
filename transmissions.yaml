@@ -1,0 +1,6 @@
+assemblies: "${launchDir}/assemblies_ST2_pooled_cities.tsv"
+tree: "${launchDir}/dated_tree.nwk"
+target: "city_pooled"
+method: "JOINT"
+model: "JC"
+resdir: "pastml_JOINT_JC"

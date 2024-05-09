@@ -1,0 +1,20 @@
+taxid: 470
+assembly_summary: "${launchDir}/data/typing_summary_tables/TableS1_aci_study_redacted_renamed2.rds"
+downsampling_strategy: "geodate2"
+geographic_locations: "${launchDir}/data/geographic_locations_in_study.tsv"
+population_sampling_rate: 1
+poppunk_clusters: "${launchDir}/data/ppdb_clusters.csv"
+phage_sensitivity: "${launchDir}/data/phage_sensitivity_measurements/TableS2_T10.tsv"
+global_tree_nwk: "${launchDir}/data/global_ST2_tree/dated_tree.nwk"
+global_tree_rds: "${launchDir}/data/global_ST2_tree/global_tree.rds"
+pastml_tbl: "${launchDir}/data/global_ST2_tree/tree_tbl.rds"
+trees: "${launchDir}/data/all_dated_trees.rds"
+global_rr: "data/rr_global_no_focus/relative_risks_type2.rds"
+regional_rr: "data/rr_regional/relative_risks_type3.rds"
+resdir: "results_redacted"
+
+minyear: 2009
+minyear_recent: 2016
+maxyear: 2020
+mincount: 50
+

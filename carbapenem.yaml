@@ -1,0 +1,3 @@
+assembly_summary: "${launchDir}/data/typing_summary_tables/TableS1_aci_study_redacted_renamed2.rds"
+resdir: "${launchDir}/carbapenem"
+
